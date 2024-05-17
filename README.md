@@ -4,6 +4,12 @@
 
 This project is a web application built using the Django framework. It provides a robust and scalable foundation for developing modern web applications, with features such as user authentication, dynamic content management, and an admin interface.
 
+
+## Deployment URL
+
+The application is deployed at: [https://django-project-14-94304931c9ae.herokuapp.com/hello/](https://django-project-14-94304931c9ae.herokuapp.com/hello/)
+
+
 ## Codeanywhere Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
